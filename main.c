@@ -196,7 +196,7 @@ int* geraNumerosAleatorios(int N) {
    
   mediaAVL = totalAVL/A;
   mediaBST = totalBST/A;
-  mediaGeral = (mediaAVL + mediaBST)/2 ;
+  mediaGeral = (mediaAVL + mediaBST)/2*A ;
 
    
    printf("\n Experiment with A = %d e N = %d\n", A, N);
