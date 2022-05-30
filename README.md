@@ -1,4 +1,4 @@
-# EP2 - Nas Alturas
+# EP2 - Nas Alturas 🔝
 
 <h2>Descrição das estruturas: </h2>
 Meu programa foi estruturado levando em conta os dois tipos de árvores que eu obinha no cenário! Acredito que a função prioritária de todo o meu programa onde a mágica acontece está na gerarArvores(); Pois com ela eu faço o uso de todas as outras que foram criadas para finalmente exercer o que o programa de fato faz! Entretanto sem a base de tudo isso não haveria utilidade da mesma, por isso além desta todas as outras tiveram sua participação essecial para que o programa funcionasse com êxito, a inserção dos nós na bst e o rotR e rotL na avl são funções que mudam completamente os resultados das minhas médias! 
