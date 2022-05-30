@@ -1,4 +1,4 @@
-# EP2 - NasAlturas
+# EP2 - Nas Alturas
 
 <h2>Descrição das estruturas: </h2>
 
