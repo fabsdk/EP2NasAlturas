@@ -10,6 +10,6 @@ Obtive um pouco de dificuldade até entender como eu poderia fazer com que o meu
 Sobre minha experiência utilizando o programa foi interessante perceber a diferença em que uma BST tem de um AVL ao se comparar o valor da altura de ambas! A AVL de fato sempre está se reorganizando para ficar com a menor altura possível, enquanto a BST está preocupada apenas em colocar os seus valores maiores a direita e os menores a esquerda!
 
 <h2> Meu programa </h2>
-<img width="513" alt="imagemNasAlturas" src="https://user-images.githubusercontent.com/80367275/170910479-7a8adfa3-3a66-450e-ac63-3826a6ea9b7e.png">
+<img width="423" alt="ImagemNovaNasAlturas" src="https://user-images.githubusercontent.com/80367275/171057845-3d7f12c5-eaf2-4799-a3fa-56cb9b7a2462.png">
  
 <h4> Link do projeto no meu replit -> <a href="https://replit.com/@fabsdk/ThisIsNasAlturas">EP - Nas Alturas</a> </h4>
